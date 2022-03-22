@@ -19,6 +19,7 @@ My first language is Portugues and I am fluent in English.
 
 Well, that's me. 👍
 
+------------------------------------
 
 Agora, em português! ✨
 
