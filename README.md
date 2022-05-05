@@ -13,7 +13,7 @@ Ok, now my interests relationed to coding:
 - React
 - Flutter
 - Python
-- And basically all the front-end stuff. 
+- And basically all the full stack stuff. 
 
 My first language is Portugues and I am fluent in English. 
 
@@ -36,7 +36,7 @@ Meus interesses quanto à programação são:
 - React
 - Flutter
 - Python
-- E basicamente a parte de front-end inteira. 
+- E basicamente a parte de fullstack inteira. 
 
 Eu sou fluente em inglês, PT-BR nativo.
 
