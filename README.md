@@ -5,7 +5,7 @@ a beginner in this area but I learn quickly almost everything. My objective here
 
 My interests relationed to coding are basically all the front-end stuff, including UI/UX design.
 
-My first language is Portugues and I am fluent in English. 
+My first language is portuguese and I am fluent in english. 
 
 Well, that's me. 👍
 
