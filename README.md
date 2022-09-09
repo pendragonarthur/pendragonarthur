@@ -15,7 +15,7 @@ Well, that's me. 👍
 
 Eu sou estagiário de T.I da prefeitura de Balneário Camboriú, Santa Catarina.. Tenho 20 anos, brasileiro. Comecei a programar ano passado, então eu sou um tanto quanto iniciante na área, mas eu tenho grande facilidade pra aprender. Meu objetivo aqui é começar a construir uma carreira e chegar cada vez mais perto do meu objetivo principal. ✨
 
-Minhas áreas de interesse em programação são todas envolvidas na parte de front-end, incluindo UI/UX design.
+Minhas áreas de interesse em programação são todas relacionadas ao front-end, incluindo UI/UX design.
 
 Eu sou fluente em inglês, PT-BR nativo.
 
